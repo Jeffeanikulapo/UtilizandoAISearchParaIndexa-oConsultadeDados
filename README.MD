@@ -113,16 +113,6 @@ ou search=location="chicago"
 ![image](https://github.com/toniacprado/DIO-Azure-Cognitive-Search-Utilizando-AI-Search-para-indexacao-e-consulta-de-Dados/assets/105946569/de84218d-5919-49fc-b1ea-30cb4e62ef72)
 
 
-## Considerações Finais
-
-Neste lab foram criados um mecanismo de busca, um recurso de inteligêncai artifical e um storage account. Foram feitas as conexões entre as ferramentas para experimentarmos a possiblidade de criar uma aplicação de pesquisa usando inteligência artificial para facilitar a descoberta relevante através de busca em documentos, textos, imagens, bancos de dados e outras fontes.
-
-Foi muito interessante conhecer a facilidade e velocidade com que a IA permitiu gerar a automação de um mecanismo de busca e exploração de dados!
-
-Toni A C Prado
-
----
-
 ### Foi utilizado além das instruções das video aulas este link da documentação oficial: 
 
 
